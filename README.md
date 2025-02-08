@@ -12,4 +12,4 @@ This project predicts drug-drug interactions (DDIs) using graph analytics and ma
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/drug-drug-interaction.git
+   git clone https://github.com/chintu2781/drug-drug-interaction.git
